@@ -1,3 +1,4 @@
 class test{
+hello
  system.out.println("Welcome GitHub");
 }
